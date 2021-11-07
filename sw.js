@@ -11,7 +11,7 @@ const CACHE_NAME = 'lab-7-starter';
    * Create a function as outlined above
    */
   let urlsToCache = [
-   'assets/styles/main.css',
+    'assets/styles/main.css',
     'assets/script/main.js'
 ];
   
